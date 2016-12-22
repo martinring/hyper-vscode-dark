@@ -1,0 +1,17 @@
+{
+	"name": "hyper-vscode-dark",
+	"description": " Hyper theme inspired by Visual Studio Code Dark+ ",
+	"authors": "Martin Ring",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/martinring/hyper-vscode-dark.git"
+	},
+	"dependencies": {
+	},
+	"devDependencies": {
+		"@types/electron": "^1.4.30",
+		"@types/node": "^6.0.52"
+	}
+}
